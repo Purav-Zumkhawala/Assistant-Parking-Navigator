@@ -1,1 +1,3 @@
 # Assistant-Parking-Navigator
+
+This is an Android Application that aims to reduce the check-in and check-out process, help easily manage parking lots. The application has two parts, One part of the app is user oritented and the other part of app which in fact is a different application is for  the person managing the parking lot. We have implemented Optical Character Reader inside this application for scanning number plate, and the database used is firebase NOSQL database for easy credential maintainance and realtime synchronization between all the users.
